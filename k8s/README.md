@@ -53,4 +53,3 @@ nginx-6b4b7cbfc8-rff6j   1/1     Running   0          3m29s
 nginx-6b4b7cbfc8-tpx4f   1/1     Running   0          3m30s
 nginx-6b4b7cbfc8-v29jr   1/1     Running   0          3m29s
 nginx-6b4b7cbfc8-vxfsj   1/1     Running   0          3m30s
-
