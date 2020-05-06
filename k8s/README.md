@@ -30,6 +30,7 @@ deployment.extensions/nginx scaled
 NAME         TYPE        CLUSTER-IP       EXTERNAL-IP   PORT(S)        AGE
 kubernetes   ClusterIP   10.254.0.1       <none>        443/TCP        14d
 nginx        NodePort    10.254.162.181   <none>        80:31745/TCP   4m52s
+
 [root@node1 ~]# kubectl get pods
 NAME                     READY   STATUS    RESTARTS   AGE
 nginx-6b4b7cbfc8-4m7pk   1/1     Running   0          3m29s
