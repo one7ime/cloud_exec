@@ -2,5 +2,6 @@ FROM ubuntu
 COPY ./install.sh /
 RUN chmod 755 /install.sh
 RUN /install.sh
-CMD [ "nginx", "-g", "daemon off;"]
+
+CMD ["nginx","-g","deamon off;"]
 expose 80
